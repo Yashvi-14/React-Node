@@ -1,9 +1,9 @@
 
 const config ={
-    "user": "sa",
-    "password": "sa123",
-    "server": "CGM2016",
-    "database": "Freducate",
+    "user": "username",
+    "password": "pass",
+    "server": "servername",
+    "database": "databasename",
     "options": {
       "encrypt": false
     },
